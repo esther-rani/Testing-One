@@ -1,1 +1,2 @@
-This is for simple testing using gitHub
+This is for simple testing using gitHub.
+Im learning gitGub reposittor for adding fils into gitHub.
